@@ -1,0 +1,21 @@
+{
+  "name": "shared_canvas",
+  "version": "1.0.0",
+  "description": "shared canvas application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "Sockets",
+    "p5js",
+    "node"
+  ],
+  "author": "Danzibob",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "socket.io": "^1.4.6"
+  }
+}
